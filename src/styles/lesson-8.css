@@ -1,0 +1,12 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#loading-text {
+	position: absolute;
+	top: 250px;
+	left: 150px;
+	font-size: 2em;
+	color: white;
+}
